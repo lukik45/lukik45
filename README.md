@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **lukik45/lukik45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -37,8 +35,6 @@ Here are some projects I've worked on:
 - **[Project Name 2](GitHub link)**: Description of what the project does and technologies used.
 - **[Project Name 3](GitHub link)**: Description of what the project does and technologies used.
 - Check out more of my projects [here](Link to your GitHub or Portfolio)!
-
-
 -->
 
 ## 🎓 Coursework Projects
@@ -87,9 +83,6 @@ During Software Engineering course, I gained knowledge and experience concerning
 - Design Patterns, Architectural Patterns 
 - Testing: unit testing, automated testing using Selenium, performance testing
 - REST API
-
-
-
 
 ### Object Oriented Programming
 During this course, I gained the knowledge and experience with:
@@ -141,6 +134,4 @@ During this course, I gained the knowledge and experience with:
   - **Description**: Implemented a real-time sentiment analysis tool to gauge public opinion on current events by analyzing tweets using Apache Spark and natural language processing techniques.
   - **Tools**: Python, Apache Spark, NLTK -->
 
-
-These projects represent just a fraction of my hands-on experiences during my studies. They reflect my ability to apply complex concepts in practical scenarios and deliver tangible results. For more details on these projects or to see my full portfolio, please visit [my GitHub projects page](Your GitHub Link).
 
