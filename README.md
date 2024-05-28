@@ -40,6 +40,11 @@ Here are some projects I've worked on:
 ## 🎓 Coursework Projects
 During my studies, I've tackled a variety of projects that have allowed me to apply classroom theories in real-world scenarios. Below are some key projects that showcase my skills and learning:
 
+### **Robotics**
+- **Project Title**: Nvidia Jetbot 
+- **Description**: Developed an autonomous driving system for the NVIDIA Jetbot. The system enables the Jetbot to navigate roads and obstacles using Convolutional Neural Networks (CNNs) implementing an end-to-end driving algorithm. This project covers data collection, model training, and deployment on the Jetbot to achieve autonomous navigation.
+- Explore the [colab](https://colab.research.google.com/drive/1sO5rtQUkm01DPlj_2hHfxO01st_c3sNE?usp=sharing) for the model part of the project
+
 ### **Data Mining**
 - **Project Title**: Association Rules-based Movie Recommender
   - **Description**: Developed a recommendation system that uses association rules to suggest movies based on user preferences and avoid potential dislikes, enhancing viewer satisfaction.
