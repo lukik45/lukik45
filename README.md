@@ -62,7 +62,12 @@ During my studies, I've tackled a variety of projects that have allowed me to ap
   - **Tools**: Python, BeautifulSoup, spaCy, Scikit-learn, Matplotlib
   - [Explore the project](https://github.com/lukik45/article-recommendation)
 
-### Deep Learning
+### Deep Learning / NLP
+- **Project Title**: Economic Event Analysis
+  - **Description**: Encompassed advanced natural language processing techniques to analyze economic events through fine-tuned language models and classify Federal Reserve speeches. The analysis utilizes state-of-the-art machine learning models tailored for financial contexts.
+  - **Tools**: pytorch, huggingface transformers, nltk
+  - [Explore the project](https://github.com/lukik45/Economic-Event-Analysis)
+
 - **Project Titile**: Sequence Defect Prediction and Localization
   - **Description**: Utilized LSTM networks to predict and localize defects in sequence data, demonstrating handling of variable sequence lengths and batch processing.
   - **Tools**: TensorFlow, Keras, Scikit-Learn, Pandas, NumPy
