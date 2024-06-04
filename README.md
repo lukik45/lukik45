@@ -37,13 +37,18 @@ Here are some projects I've worked on:
 - Check out more of my projects [here](Link to your GitHub or Portfolio)!
 -->
 
-## 🎓 Coursework Projects
+## 🎓 Coursework (not only) Projects
 During my studies, I've tackled a variety of projects that have allowed me to apply classroom theories in real-world scenarios. Below are some key projects that showcase my skills and learning:
 
 ### **Robotics**
 - **Project Title**: Nvidia Jetbot 
-- **Description**: Developed an autonomous driving system for the NVIDIA Jetbot. The system enables the Jetbot to navigate roads and obstacles using Convolutional Neural Networks (CNNs) implementing an end-to-end driving algorithm. This project covers data collection, model training, and deployment on the Jetbot to achieve autonomous navigation.
-- Explore the [colab](https://colab.research.google.com/drive/1sO5rtQUkm01DPlj_2hHfxO01st_c3sNE?usp=sharing) for the model part of the project
+  - **Description**: Developed an autonomous driving system for the NVIDIA Jetbot. The system enables the Jetbot to navigate roads and obstacles using Convolutional Neural Networks (CNNs) implementing an end-to-end driving algorithm. This project covers data collection, model training, and deployment on the Jetbot to achieve autonomous navigation.
+  - Explore the [colab](https://colab.research.google.com/drive/1sO5rtQUkm01DPlj_2hHfxO01st_c3sNE?usp=sharing) for the model part of the project
+
+- **Project Title:** Toy Robot Controller Using iPhone Camera
+  - **Description:** Developed a system to control a toy robot via Bluetooth LE, utilizing image processing techniques from the iPhone camera. The system enables the robot to move in response to visual inputs, such as detecting and following a red object. This project covers setting up the camera feed, processing the images to determine movement directions, and communicating with the robot via Bluetooth to execute these movements.
+  - **Tools**: Python, opencv, numpy, asyncio
+  - [Explore the project](https://github.com/lukik45/self-driving-robot)
 
 ### **Data Mining**
 - **Project Title**: Association Rules-based Movie Recommender
